@@ -1,1 +1,4 @@
 저는 몽지성인디요
+
+git remote set-url origin https://sorate7624@github.com/sorate7624/test1.git
+
